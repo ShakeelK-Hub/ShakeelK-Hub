@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Fresh perspectives to aged problems
+## 💡Fresh perspectives to aged problems
   
 ### 🚀 Aspiring IT Professional | Student Software Engineer
 ### 🎓 Final-Year Computer Software Engineering Student
