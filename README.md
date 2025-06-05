@@ -22,9 +22,8 @@
   </a>
 </p>
 
-<a href="https://github.com/ShakeelK-Hub">
-  <img src="https://komarev.com/ghpvc/?username=ShakeelK-Hub&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" style="zoom: 150%;" />
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=ShakeelK-Hub&label=Profile%20Views&color=blue&style=for-the-badge)](https://github.com/ShakeelK-Hub)
+
 
 </div>
 
