@@ -2,9 +2,7 @@
 
 <div align="center">
 
-### *Fresh perspectives on aged problems*
-  
-### 🚀 Aspiring IT Professional | Student Software Engineer
+###  Aspiring IT Professional | Student Software Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2d5cc1&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Problem+Solver+%26+Critical+Thinker;Clean+Code+Enthusiast;Team+Player+%7C+Fast+Learner" alt="Typing SVG" />
@@ -30,6 +28,12 @@
 ---
 
 ## 🎯 About Me
+
+<div align="center">
+  
+### FRESH PERSPECTIVES ON AGED PROBLEMS
+
+</div>
 
 ```javascript
 const shakeel = {
@@ -207,7 +211,7 @@ I'm actively seeking opportunities to contribute to meaningful projects and grow
 </p>
 
 
-  **"You'll Never Walk Alone" - Just like in coding, we're stronger together!** – Shakeel Khan
+  **"You'll Never Walk Alone"** 
 
 
 **Thanks for visiting! Ready to build something amazing together? 🚀**
