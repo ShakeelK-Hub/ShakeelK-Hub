@@ -38,7 +38,7 @@
 ```javascript
 const shakeel = {
     location: "Johannesburg, Gauteng, South Africa",
-    education: "Diploma in IT (Software Development) - Belgium Campus",
+    education: "Bachelor of Computing (Software Engineering) - Belgium Campus",
     passion: "Turning fresh ideas into digital solutions",
     currentStatus: "Ready to contribute and grow",
     
