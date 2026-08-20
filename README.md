@@ -22,11 +22,11 @@
 
 ### Software Engineering · Applied AI · Automation · Commerce
 
-I build software at the intersection of **intelligent systems, automation, and digital commerce**.
+Software engineering is the path I am building through practical work that improves digital products and everyday processes.
 
-My focus is practical: understand the problem, build the right system, reduce unnecessary complexity, and leave something that can be improved rather than rebuilt.
+My career is still in its early stages, but each project has taught me to take responsibility, work through unfamiliar problems, and care about the quality of what I leave behind.
 
-I enjoy working across the stack - from machine-learning pipelines and APIs to customer-facing applications and the infrastructure behind them.
+Learning through delivery has shaped a grounded approach to building software: stay useful, keep improving, and make decisions that hold up beyond the first version.
 
 ---
 
