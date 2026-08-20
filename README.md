@@ -2,7 +2,7 @@
   <img
     width="100%"
     src="https://raw.githubusercontent.com/ShakeelK-Hub/ShakeelK-Hub/main/assets/hero-minimal.gif"
-    alt="Shakeel Khan — Software Engineering, Applied AI, Automation and Commerce"
+    alt="Shakeel Khan - Software Engineering, Applied AI, Automation and Commerce"
   />
 </p>
 
@@ -26,7 +26,7 @@ I build software at the intersection of **intelligent systems, automation, and d
 
 My focus is practical: understand the problem, build the right system, reduce unnecessary complexity, and leave something that can be improved rather than rebuilt.
 
-I enjoy working across the stack — from machine-learning pipelines and APIs to customer-facing applications and the infrastructure behind them.
+I enjoy working across the stack - from machine-learning pipelines and APIs to customer-facing applications and the infrastructure behind them.
 
 ---
 
